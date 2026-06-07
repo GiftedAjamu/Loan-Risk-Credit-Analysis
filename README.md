@@ -1,6 +1,6 @@
 # Loan-Risk-Credit-Analysis
 Exploratory analysis of 5,000 borrower records to uncover what really drives loan approval decisions beyond credit score.
-# Loan Risk & Credit Analysis
+
 
 # Overview
 
@@ -14,7 +14,10 @@ Credit score is often treated as the single most important factor in loan approv
 # Dataset
 
  • 5,000 borrower records
- • Key variables: Age,
+ 
+ • Key variables:
+ 
+ Age,
  City, 
  Gender, 
  Income, 
@@ -47,16 +50,25 @@ More work experience does not always translate to a stronger credit profile. Rep
 
 High credit score? Still not a guaranteed approval.
 
-This analysis shows that loan decisions are shaped by a combination of factors. Never assume. Let the data speak.
+This analysis shows that loan decisions are shaped by a combination of factors.
+
+Never assume. 
+
+Let the data speak.
 
 # Dashboard Preview
 
 ![Dashboard preview](GENDER.png)
+
+![Dashboard preview](giiii.png)
+
 ![Dashboard preview](APPROVAL.png)
-![Dashboard preview](Annotation 2026-04-02 150910.png)
-![Dashboard preview](Annotation 2026-04-02 150738.png)
-![Dashboard preview](Annotation 2026-04-02 150614.png)
-![Dashboard preview](Annotation 2026-04-02 150256.png)
+
+![Dashboard preview](hiii.png)
+
+![Dashboard preview](jiiii.png)
+
+![Dashboard preview](biii.png)
 
 
 
