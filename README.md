@@ -25,8 +25,9 @@ Credit score is often treated as the single most important factor in loan approv
 
 # Tools Used
 
- • Power BI — dashboard and visualizations
- • Microsoft Excel — data cleaning and preparation
+ • Power BI Dashboard and visualizations
+ 
+ • Microsoft Excel Data cleaning and preparation
 
 # Key Findings
 
@@ -49,10 +50,8 @@ High credit score? Still not a guaranteed approval.
 This analysis shows that loan decisions are shaped by a combination of factors. Never assume. Let the data speak.
 
 # Dashboard Preview
-<img width="395" height="226" alt="GENDER" src="https://github.com/user-attachments/assets/734855d6-e16c-4792-9aae-f35597e742a4" />
-<img width="630" height="256" alt="APPROVAL" src="https://github.com/user-attachments/assets/13e40855-b38a-45ee-8d1c-3cc3ca8745ee" />
-<img width="477" height="154" alt="Annotation 2026-04-02 150910" src="https://github.com/user-attachments/assets/a6209ae9-107f-4088-91e1-d121a5d108b3" />
-<img width="474" height="192" alt="Annotation 2026-04-02 150738" src="https://github.com/user-attachments/assets/a8b1f61c-100f-458b-a703-a999c1dd75a7" />
-<img width="510" height="180" alt="Annotation 2026-04-02 150614" src="https://github.com/user-attachments/assets/281c4762-aa0b-4546-989b-9e3a8935c19b" />
+
+![Dashboard preview](GENDER.png)
+
 
 You can connect with me on [Linkedin](http://linkedin.com/in/gifted-ajamu), [x](https://x.com/giftedajamu?s=21)
