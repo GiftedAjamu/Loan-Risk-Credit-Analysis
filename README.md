@@ -52,6 +52,13 @@ This analysis shows that loan decisions are shaped by a combination of factors. 
 # Dashboard Preview
 
 ![Dashboard preview](GENDER.png)
+![Dashboard preview](APPROVAL.png)
+![Dashboard preview](Annotation 2026-04-02 150910.png)
+![Dashboard preview](Annotation 2026-04-02 150738.png)
+![Dashboard preview](Annotation 2026-04-02 150614.png)
+![Dashboard preview](Annotation 2026-04-02 150256.png)
+
+
 
 
 You can connect with me on [Linkedin](http://linkedin.com/in/gifted-ajamu), [x](https://x.com/giftedajamu?s=21)
